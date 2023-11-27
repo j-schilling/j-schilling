@@ -2,7 +2,7 @@
 
 I am a product manager based in Berlin that is currently learning "Full Stack Web Development" in a bootcamp. Reach out to me, if you're in need of an experienced product person fluent in agile product management and leadership.
 
-![ted lasso](https://tenor.com/bAsUW.gif)
+![ted lasso](https://media.tenor.com/mMcz7muunSkAAAAC/ted-lasso-tedlassogifs.gif)
 
 <!--
 **j-schilling/j-schilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
