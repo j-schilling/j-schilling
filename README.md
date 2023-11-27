@@ -4,6 +4,11 @@ I am a product manager based in Berlin that is currently learning "Full Stack We
 
 ![ted lasso](https://media.tenor.com/mMcz7muunSkAAAAC/ted-lasso-tedlassogifs.gif)
 
+### 🌱 I’m currently learning:
+- JavaScript
+- HTML
+- CSS
+
 <!--
 **j-schilling/j-schilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
