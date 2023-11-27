@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Janosch
+# Hey 👋, I'm Janosch
+
+I am a product manager based in Berlin that is currently learning "Full Stack Web Development" in a bootcamp. Reach out to me, if you're in need of an experienced product person fluent in agile product management and leadership.
+
+
 
 <!--
 **j-schilling/j-schilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
