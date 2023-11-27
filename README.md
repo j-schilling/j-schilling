@@ -1,6 +1,6 @@
 # Hey 👋, I'm Janosch
 
-I am a product manager based in Berlin that is currently learning "Full Stack Web Development" in a bootcamp. Reach out to me, if you're in need of an experienced product person fluent in agile product management and leadership.
+I am a product manager based in Berlin that is currently learning "Full Stack Web Development" in a bootcamp. Reach out to me, if you're in need of an experienced product person fluent in agile product management and leadership. As for my attitude I'll go with Ted Lasso:
 
 ![ted lasso](https://media.tenor.com/mMcz7muunSkAAAAC/ted-lasso-tedlassogifs.gif)
 
