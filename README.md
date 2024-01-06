@@ -1,6 +1,6 @@
 <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Janosch</h3>
 
-I am a Product Manager based in Berlin that is currently learning "Full Stack Web Development" in a bootcamp. Reach out to me, if you're in need of an experienced product person fluent in agile product management and leadership. As for my attitude I'll go with Ted Lasso (or Walt Whitman):
+I am a Product Manager based in Berlin that is currently learning "Full Stack Web Development" in a bootcamp to grow on the technical side. Reach out to me, if you're in need of an experienced product person fluent in agile product management and leadership. As for my attitude I'll go with Ted Lasso (or Walt Whitman):
 
 ![ted lasso](https://media.tenor.com/mMcz7muunSkAAAAC/ted-lasso-tedlassogifs.gif)
 
