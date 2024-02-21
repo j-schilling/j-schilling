@@ -6,6 +6,8 @@ I am a Product Manager based in Berlin that is currently learning "Full Stack We
 
 ### 🌱 I’m currently learning:
 - JavaScript
+- React
+- Nextjs
 
 <!--
 **j-schilling/j-schilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
